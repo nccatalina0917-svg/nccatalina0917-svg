@@ -1,41 +1,56 @@
-<h1 align="center">Hola, soy Yeimy Catalina Nova 👋</h1>
-<h3 align="center">Desarrolladora de Software Junior · Bogotá, Colombia</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4C9A,100:3B2A5C&height=200&section=header&text=Yeimy%20Nova&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrolladora%20de%20Software%20Junior&descAlignY=60&descSize=20" alt="Banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6B4C9A&center=true&vCenter=true&width=620&lines=Python+%7C+Flask+%7C+MySQL;Automatizaci%C3%B3n+de+procesos;Tecn%C3%B3loga+en+An%C3%A1lisis+y+Desarrollo+de+Software;Buscando+mi+primera+oportunidad+%F0%9F%9A%80" alt="Texto animado" />
+
+</div>
+
+---
+
+### 👩‍💻 Sobre mí
+
+- 🎓 Tecnóloga en Análisis y Desarrollo de Software (SENA)
+- 🏢 Seis meses de prácticas en **Seguros Bolívar** (Gestión Humana): plataforma web de bienestar, portal de cesantías y automatización de documentos PDF
+- 🤝 En mi proyecto final trabajé con **Scrum**, a cargo del backend, las interfaces y la documentación
+- 📍 Bogotá, Colombia
+- 🔎 Busco mi primera oportunidad como desarrolladora junior (backend o full stack)
+
+---
+
+### 🛠️ Tecnologías
 
 <p align="center">
-Tecnóloga en Análisis y Desarrollo de Software (SENA).<br>
-Backend con Python y Flask, y automatización de procesos con Google Apps Script.
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,js,html,css,git,github&theme=dark" alt="Tecnologías" />
 </p>
 
 ---
 
-## Sobre mí
+### 🚀 Proyecto destacado
 
-- Hice seis meses de prácticas en **Seguros Bolívar** (Gestión Humana), donde desarrollé una plataforma web de bienestar, un portal de cesantías y una automatización de documentos PDF.
-- En mi proyecto final del SENA trabajé en equipo con **Scrum** y fui responsable del backend, las interfaces y la documentación.
-- Busco mi primera oportunidad como desarrolladora junior (backend o full stack).
+**[SERVIMAQ](https://github.com/Juanca8889/Proyecto-Sena-F.Y)** · Sistema de gestión para un taller de llantas y servicios automotrices (proyecto final del SENA, equipo de 5 personas)
 
-## Tecnologías
+- Backend en Python con Flask y MySQL
+- Interfaces en HTML y CSS
+- Módulos: alertas de stock bajo, ventas, servicios, compra de material y clientes
+- Manual de usuario del sistema
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-## Proyecto destacado
-
-**[SERVIMAQ](https://github.com/Juanca8889/Proyecto-Sena-F.Y)** · Sistema de gestión para un taller de llantas y servicios automotrices (proyecto final del SENA, equipo de 5 personas).
-Mi aporte: backend en Python con Flask y MySQL, interfaces en HTML y CSS, y documentación del sistema.
-
-## Lo que estoy fortaleciendo
+### 🌱 Lo que estoy fortaleciendo
 
 - APIs REST con Flask
 - SQL y diseño de bases de datos
 - Inglés técnico
 
-## Contacto
+---
 
-📧 nccatalina0917@gmail.com
+### 📫 Contacto
+
+<p align="center">
+  <a href="mailto:nccatalina0917@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4C9A,100:3B2A5C&height=100&section=footer" width="100%" alt="Footer" />
