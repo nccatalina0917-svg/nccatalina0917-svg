@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2A5C,100:7B5CB8&height=210&section=header&text=%C2%A1Hola%2C%20soy%20Yeimy!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrolladora%20de%20Software%20Junior&descAlignY=60&descSize=18" width="100%" alt="Banner de bienvenida" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B2A5C,100:7B5CB8&height=210&section=header&text=%C2%A1Hola%2C%20soy%20Catalina!&fontSize=50&fontColor=ffffff&animation=scaleIn&fontAlignY=38&desc=Desarrolladora%20de%20Software%20Junior&descAlignY=60&descSize=18" width="100%" alt="Banner de bienvenida" />
 
 <img src="https://raw.githubusercontent.com/nccatalina0917-svg/nccatalina0917-svg/main/snoopy.gif" width="110" alt="Snoopy bailando" />
 
@@ -47,6 +47,8 @@ Leo &nbsp;·&nbsp; Dibujo &nbsp;·&nbsp; Películas y series
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,js,html,css,git,github&theme=dark" alt="Tecnologías" />
 
 <br><br>
+
+<img src="https://raw.githubusercontent.com/nccatalina0917-svg/nccatalina0917-svg/main/shinchan.gif" width="110" alt="Shinchan comiendo" />
 
 <sub>Gracias por visitar mi perfil</sub>
 
