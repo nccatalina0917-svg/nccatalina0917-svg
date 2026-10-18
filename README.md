@@ -14,23 +14,25 @@
 
 <sub><b>LO QUE ME MUEVE</b></sub>
 
-Disfruto del desarrollo cuando una interfaz se ve bien y además funciona muy bien.<br>
-Me motiva ayudar a que una persona haga en menos tiempo algo que antes le tomaba mucho,<br>
-con soluciones flexibles que se adapten a lo que necesita.
+Creo en el desarrollo donde el diseño y la funcionalidad van de la mano.<br>
+Me motiva transformar procesos que consumen tiempo en soluciones ágiles,<br>
+claras y flexibles, pensadas para las necesidades reales de quien las usa.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2A5C,50:7B5CB8,100:3B2A5C&height=1" width="30%" alt="" />
 
 <sub><b>DE LO QUE ME SIENTO ORGULLOSA</b></sub>
 
-De no rendirme ante las dificultades y de ver cómo el esfuerzo<br>
-se refleja en un proyecto terminado, bonito y funcional.
+Me enorgullece la constancia con la que enfrento cada dificultad,<br>
+y ver ese esfuerzo reflejado en un proyecto terminado,<br>
+cuidado en su diseño y sólido en su funcionamiento.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2A5C,50:7B5CB8,100:3B2A5C&height=1" width="30%" alt="" />
 
 <sub><b>MI META</b></sub>
 
-Seguir aprendiendo y creciendo con nuevas tecnologías,<br>
-hasta construir algo significativo que tenga un impacto real en las personas que lo usen.
+Mi meta es seguir creciendo profesionalmente y explorar nuevas tecnologías,<br>
+con el propósito de construir algo significativo<br>
+que genere un impacto real en las personas que lo utilicen.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B2A5C,50:7B5CB8,100:3B2A5C&height=1" width="30%" alt="" />
 
